@@ -1,0 +1,14 @@
+.imageStyle{
+    display: block;
+    width: 90%;
+    margin-top: 1rem;
+}
+.galleryContainer{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+h2{
+    display: block;  
+    align-items: center;
+    text-align: center;
+}

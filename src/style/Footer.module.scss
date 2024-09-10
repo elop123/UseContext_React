@@ -1,0 +1,19 @@
+footer{
+    background-color: aquamarine;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-top: 1rem;
+    ul{
+        list-style-type: none;
+        li a{
+            text-decoration: none;
+        }
+    }
+}
+
+.footerDark{
+    background-color: darkcyan;
+}
+.footerLight{
+    background-color: aquamarine;
+}

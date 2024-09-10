@@ -1,0 +1,20 @@
+.dark{
+    background-color: darkblue;
+    cursor: pointer;
+    align-self: center;
+}
+
+.light{
+    background-color: aqua;
+    cursor: pointer;
+}
+
+.buttonWrapper{
+    display: flex;
+    align-items: center;
+   justify-content: center;
+  
+}
+button{
+    padding: 1rem;
+}
