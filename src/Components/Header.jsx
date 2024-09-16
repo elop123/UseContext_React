@@ -10,5 +10,7 @@ export const Header = ({title}) =>{
     return(
     <>
     <h1  className={isDarkMode? s.headerStyleDark: s.headerStyleLight}>{title}</h1>
+   
+    
     </>)
 }
