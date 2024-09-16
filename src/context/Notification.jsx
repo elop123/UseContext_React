@@ -10,8 +10,8 @@ export function NotificationProvider(props){
      
             setNotification(true)
             setTimeout(() => {
-                setNotification(false); // Hide notification after  3 seconds
-              }, 3000);
+                setNotification(false); // Hide notification after  2 seconds
+              }, 2000);
             };
   
   return(
